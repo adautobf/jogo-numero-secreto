@@ -1,5 +1,5 @@
 function exibirOlaMundo(){
-    console.log('Olá, mundo!');
+    console.log('Olá, povo mundo!');
 }
 
 function exibirNome(nome) {    

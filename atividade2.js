@@ -2,7 +2,7 @@ let listaGenerica = [];
 
 let linguagensDeProgramacao = ['JavaScript','C','C++','Kotlin','Python'];
 
-let nomes = ['Adauto','Walter','Vivi'];
+let nomes = ['Adauto','Walter','Clarí'];
 
 linguagensDeProgramacao.push('Java');
 linguagensDeProgramacao.push('Ruby');
